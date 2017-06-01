@@ -1,0 +1,14 @@
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Debug\LoadMail.Properties.Resources.resources
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Debug\LoadMail.Rbb_PPManager.resources
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Debug\LoadMail.csproj.GenerateResource.Cache
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Debug\LoadMail.csprojResolveAssemblyReference.cache
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\PPManager.Outlook.Import.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\PPManager.Outlook.Import.pdb
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\PPManager.Outlook.Import.dll.manifest
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Debug\PPManager.Outlook.Import.vsto
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Debug\PPManager.Outlook.Import.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Debug\PPManager.Outlook.Import.pdb

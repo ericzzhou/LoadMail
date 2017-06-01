@@ -1,0 +1,13 @@
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\LoadMail.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\LoadMail.pdb
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\LoadMail.dll.manifest
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\LoadMail.vsto
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Release\LoadMail.Properties.Resources.resources
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Release\LoadMail.Rbb_PPManager.resources
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Release\LoadMail.csproj.GenerateResource.Cache
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Release\LoadMail.dll
+E:\Work\Project\ppmanager\01.SourceCode\plug-in\LoadMail\LoadMail\obj\Release\LoadMail.pdb
